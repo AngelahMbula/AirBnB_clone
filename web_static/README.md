@@ -1,5 +1,5 @@
-0x01. AirBnB clone - Web static
-Background Context
+#0x01. AirBnB clone - Web static
+#Background Context
 
 Web static, what?
 
@@ -30,7 +30,7 @@ During this project, you will learn how to manipulate HTML and CSS languages. HT
 
 
 Before starting, please fork or clone the repository AirBnB_clone from your partner if you were not the owner of the previous project.
-General
+#General
 
 What is HTML
 
